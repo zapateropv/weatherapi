@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url("/portfolio/images-src/bg.png");
+    background-image: url("bg.png");
     font-family: monospace;
 }
 
